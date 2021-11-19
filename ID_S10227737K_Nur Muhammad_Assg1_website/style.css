@@ -1,0 +1,22 @@
+body {
+  background-color: #707070;
+  font-family: Roboto;
+}
+.information {
+  margin: auto;
+  border: 3px;
+  padding-left: 150px; /* this centres my text*/
+  font-size: 50px;
+  color: white;
+}
+.sidenav {
+  height: 100%;
+  width: 100px; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar*/
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: white;
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 20px;
+}
