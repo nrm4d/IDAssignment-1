@@ -20,3 +20,12 @@ body {
   overflow-x: clip; /* Disable horizontal scroll */
   padding-top: 20px;
 }
+
+.home,
+.about,
+.skills,
+.portfolio,
+.contact {
+  max-width: 100%;
+  height: 60px;
+}
