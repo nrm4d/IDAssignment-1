@@ -17,6 +17,6 @@ body {
   top: 0; /* Stay at the top */
   left: 0;
   background-color: white;
-  overflow-x: hidden; /* Disable horizontal scroll */
+  overflow-x: clip; /* Disable horizontal scroll */
   padding-top: 20px;
 }
