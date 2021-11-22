@@ -4,7 +4,9 @@ body {
 }
 .information,
 .about,
-.skills {
+.skills,
+.portfolio,
+.contact {
   margin: auto;
   border: 3px;
   padding-left: 150px; /* this centres my text*/
