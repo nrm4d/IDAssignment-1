@@ -2,7 +2,9 @@ body {
   background-color: #707070;
   font-family: Roboto;
 }
-.information {
+.information,
+.about,
+.skills {
   margin: auto;
   border: 3px;
   padding-left: 150px; /* this centres my text*/
