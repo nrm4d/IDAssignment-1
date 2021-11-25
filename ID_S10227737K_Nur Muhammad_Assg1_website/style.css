@@ -25,12 +25,15 @@ body {
 }
 
 .home-top {
+  display: flex;
   margin-left: 8%;
 }
 
 .bottomgroup {
+  display: flex;
+  justify-content: space-between;
   flex-direction: column;
-  margin-top: 350%;
+  margin-top: 290%;
   margin-left: 8%;
 }
 .home {
@@ -38,10 +41,26 @@ body {
   height: 60px;
   padding-left: 10%;
 }
-.about,
-.skills,
-.portfolio,
+.about {
+  padding-bottom: 10%;
+  max-width: 100%;
+  height: 60px;
+  padding-left: 10%;
+}
+.skills {
+  padding-top: 10%;
+  max-width: 100%;
+  height: 60px;
+  padding-left: 10%;
+}
+.portfolio {
+  padding-top: 30%;
+  max-width: 100%;
+  height: 60px;
+  padding-left: 10%;
+}
 .contact {
+  padding-top: 30%;
   max-width: 100%;
   height: 60px;
   padding-left: 10%;
