@@ -13,7 +13,7 @@ body {
   font-size: 50px;
   color: white;
 }
-.sidenav {
+.navigation {
   height: 100%;
   width: 100px; /* Set the width of the sidebar */
   position: fixed; /* Fixed Sidebar*/
@@ -24,7 +24,21 @@ body {
   padding-top: 20px;
 }
 
-.home,
+.home-top {
+  position: fixed;
+  left: 0.8%;
+}
+
+.bottomgroup {
+  flex-direction: column;
+  margin-top: 400%;
+  left: 0.8%;
+}
+.home {
+  max-width: 100%;
+  height: 60px;
+  padding-left: 10%;
+}
 .about,
 .skills,
 .portfolio,
