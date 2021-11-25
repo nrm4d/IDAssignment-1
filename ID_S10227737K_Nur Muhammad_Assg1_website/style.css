@@ -36,16 +36,16 @@ h2:hover {
 }
 .me {
   float: left;
-  padding: 60px;
+  padding: 0px;
   width: 40%;
 }
 .me_img {
   float: right;
-  width: 40%;
+  width: 60%;
 }
 .me_img img {
   width: 800px;
-  margin-left: -6%;
+  margin-left: 1%;
 }
 
 .home-top {
