@@ -25,14 +25,13 @@ body {
 }
 
 .home-top {
-  position: fixed;
-  left: 0.8%;
+  margin-left: 8%;
 }
 
 .bottomgroup {
   flex-direction: column;
-  margin-top: 400%;
-  left: 0.8%;
+  margin-top: 300%;
+  margin-left: 8%;
 }
 .home {
   max-width: 100%;
