@@ -35,6 +35,19 @@ h2 {
 h2:hover {
   background: rgb(255, 255, 255, 0.3); /*sets background colour*/
 }
+.me {
+  float: left;
+  padding: 60px;
+  width: 40%;
+}
+.me_img {
+  float: right;
+  width: 40%;
+}
+.me_img img {
+  width: 800px;
+  margin-left: -67%;
+}
 
 .home-top {
   display: flex;
