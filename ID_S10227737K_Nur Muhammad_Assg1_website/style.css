@@ -23,6 +23,18 @@ body {
   background-color: white;
   padding-top: 20px;
 }
+h2 {
+  display: inline-block;
+  height: 100px; /*sets height of element*/
+  background: #707070; /*sets the background of this element (here a solid colour)*/
+  transition: all 0.6s; /*sets a transition (for hover effect)*/
+  padding-left: 20px; /*sets 'padding'*/
+  padding-right: 20px; /*sets 'padding'*/
+  line-height: 100px; /*for this, it sets vertical alignment*/
+}
+h2:hover {
+  background: rgb(255, 255, 255, 0.3); /*sets background colour*/
+}
 
 .home-top {
   display: flex;
