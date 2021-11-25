@@ -14,13 +14,12 @@ body {
   color: white;
 }
 .navigation {
+  background: linear-gradient(mediumspringgreen, white);
   height: 100%;
   width: 100px; /* Set the width of the sidebar */
   position: fixed; /* Fixed Sidebar*/
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
-  left: 0;
-  background-color: white;
   padding-top: 20px;
 }
 h2 {
@@ -46,7 +45,7 @@ h2:hover {
 }
 .me_img img {
   width: 800px;
-  margin-left: -67%;
+  margin-left: -6%;
 }
 
 .home-top {
