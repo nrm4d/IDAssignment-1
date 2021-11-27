@@ -34,6 +34,7 @@ h2 {
 h2:hover {
   background: rgb(255, 255, 255, 0.3); /*sets background colour*/
 }
+
 .me {
   float: left;
   padding: 0px;
@@ -94,26 +95,27 @@ h2:hover {
   max-width: 100%;
   height: 350px;
   position: absolute;
-  left: 10%;
+  padding-left: 5%;
 }
 
 .simpName{
   position: absolute;
   padding-top: 20%;
-  padding-left: 6%;
+  padding-left: 11%;
 }
 
 .dos {
   max-width: 100%;
   height: 350px;
   position: absolute;
-  right: 10%;
+  padding-left: 50%;
 }
 
 .dosName{
+  
   position: absolute;
   padding-top: 20%;
-  padding-left: 62%;
+  padding-left: 55%;
 }
 .myskills {
   position: absolute;
