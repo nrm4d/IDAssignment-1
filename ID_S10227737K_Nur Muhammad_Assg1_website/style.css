@@ -16,7 +16,7 @@ body {
 
 /* NAVIGATION BAR AND ICONS */
 .navigation {
-  background: linear-gradient(mediumspringgreen, white);
+  background: linear-gradient(mediumspringgreen, #707070);
   height: 100%;
   width: 100px; /* Set the width of the sidebar */
   position: fixed; /* Fixed Sidebar*/
@@ -80,7 +80,7 @@ h2 {
   overflow: hidden;
 }
 h2:hover {
-  color: #255784;
+  
   background: #707070; /*sets background colour*/
   box-shadow: 0 0 5px #00fa9a, 0 0 20px #00fa9a, 0 0 40px #00fa9a;
 }
