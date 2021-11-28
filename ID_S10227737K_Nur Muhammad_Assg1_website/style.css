@@ -67,35 +67,23 @@ body {
   padding-left: 10%;
 }
 
-
-
-
-
-
-
 /* HOVER FOR HOME PAGE TO CONTACT ME */
-
-
 
 h2 {
   position: relative;
-  display: inline-block; 
+  display: inline-block;
   background: #707070; /*sets the background of this element (here a solid colour)*/
   transition: all 0.2s; /*sets a transition (for hover effect)*/
   padding: 10px 20px;
   letter-spacing: 4px;
   text-decoration: none;
   overflow: hidden;
-  
 }
 h2:hover {
   color: #255784;
   background: #707070; /*sets background colour*/
-  box-shadow: 0 0 10px #00fa9a, 0 0 40px #00fa9a, 0 0 80px #00fa9a;
-  transition-delay: 1s;
-  
+  box-shadow: 0 0 5px #00fa9a, 0 0 20px #00fa9a, 0 0 40px #00fa9a;
 }
-
 
 /* ABOUT ME PAGE */
 .me {
@@ -112,7 +100,6 @@ h2:hover {
   width: 800px;
   margin-left: 1%;
 }
-
 
 /* SKILLS PAGE */
 .myskills {
@@ -163,7 +150,7 @@ h2:hover {
   padding-left: 5%;
 }
 
-.simpName{
+.simpName {
   position: absolute;
   padding-top: 20%;
   padding-left: 11%;
@@ -176,16 +163,14 @@ h2:hover {
   padding-left: 50%;
 }
 
-.dosName{
-  
+.dosName {
   position: absolute;
   padding-top: 20%;
   padding-left: 55%;
 }
 
-
 /* CONTACT PAGE */
-.msg{
+.msg {
   position: absolute;
   padding-left: 1%;
 }
