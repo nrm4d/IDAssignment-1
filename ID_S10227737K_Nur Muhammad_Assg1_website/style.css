@@ -68,6 +68,22 @@ body {
 }
 
 /* HOVER FOR HOME PAGE TO CONTACT ME */
+span {
+  position: relative;
+  display: inline-block;
+  background: #707070; /*sets the background of this element (here a solid colour)*/
+  transition: all 0.2s; /*sets a transition (for hover effect)*/
+  padding: 10px 20px;
+  margin-bottom: -2%;
+  letter-spacing: 4px;
+  text-decoration: none;
+  overflow: hidden;
+}
+span:hover {
+  
+  background: #707070; /*sets background colour*/
+  box-shadow: 0 0 5px #00fa9a, 0 0 20px #00fa9a, 0 0 40px #00fa9a;
+}
 
 h2 {
   position: relative;
@@ -174,3 +190,4 @@ h2:hover {
   position: absolute;
   padding-left: 1%;
 }
+
