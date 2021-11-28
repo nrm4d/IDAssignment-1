@@ -20,15 +20,34 @@
       <div class="msg">
         <h1 style="color: mediumspringgreen">Contact Me!</h1>
       </div>
+    </section>
 
+    <div class="contactform">
       <form action>
-        <label for="fname">First name:</label>
+        <label for="fname">First Name</label>
         <br />
-        <input type="text" id="fname" name="fname" width="10" />
+        <input type="text" id="fname" name="firstname" required />
         <br />
+
+        <label for="lname">Last Name</label>
+        <br />
+        <input type="text" id="lname" name="lastname" required />
+        <br />
+
+        <label for="subject">Subject</label>
+        <br />
+        <textarea
+          id="subject"
+          name="subject"
+          style="height: 200px;
+          width: 500px;"
+          required
+        ></textarea>
+        <br />
+
         <input type="submit" value="Submit" />
       </form>
-    </section>
+    </div>
 
     <!-- Side navigation -->
     <section class="navigation">
