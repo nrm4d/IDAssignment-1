@@ -74,6 +74,9 @@ body {
 
 
 /* HOVER FOR HOME PAGE TO CONTACT ME */
+
+
+
 h2 {
   position: relative;
   display: inline-block; 
@@ -89,6 +92,8 @@ h2:hover {
   color: #255784;
   background: #707070; /*sets background colour*/
   box-shadow: 0 0 10px #00fa9a, 0 0 40px #00fa9a, 0 0 80px #00fa9a;
+  transition-delay: 1s;
+  
 }
 
 
