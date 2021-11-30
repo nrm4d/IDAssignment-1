@@ -12,6 +12,7 @@
       href="https://fonts.googleapis.com/css2?family=Roboto&display=swap"
       rel="stylesheet"
     />
+    <script src="script.js"></script>
     <title>Contact Me!</title>
   </head>
 
@@ -23,7 +24,7 @@
     </section>
 
     <div class="contactform">
-      <form action>
+      <form name="myForm" action="" onsubmit="return validateForm()">
         <label for="fname">First Name</label>
         <br />
         <input type="text" id="fname" name="firstname" required />
@@ -58,7 +59,7 @@
 
       <div class="bottomgroup">
         <a href="about.html">
-          <img src="images/about.png" class="about"/>
+          <img src="images/about.png" class="about" />
         </a>
 
         <a href="skills.html">
