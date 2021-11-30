@@ -17,7 +17,7 @@ body {
 }
 .information,
 .aboutme,
-.skills,
+.skillsexp,
 .portfolio,
 .ctc {
   margin: auto;
@@ -76,6 +76,11 @@ body {
   max-width: 100%;
   height: 60px;
   padding-left: 12%;
+}
+
+.skills:hover{
+  box-shadow: 0 0 5px white, 0 0 5px white, 0 0 5px white;
+  
 }
 .portfolio {
   padding-top: 0%;
