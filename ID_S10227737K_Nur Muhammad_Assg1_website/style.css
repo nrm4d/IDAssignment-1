@@ -40,7 +40,7 @@ body {
 
 .home-top {
   display: flex;
-  margin-left: 8%;
+  margin-left: 15%;
 }
 
 .bottomgroup {
@@ -48,7 +48,7 @@ body {
   justify-content: space-evenly;
   flex-direction: column;
   margin-top: 290%;
-  margin-left: 8%;
+  margin-left: 15%;
 }
 .home {
   max-width: 100%;
