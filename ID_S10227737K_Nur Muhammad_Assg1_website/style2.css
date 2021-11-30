@@ -1,0 +1,45 @@
+.navigation {
+  display: flex;
+  justify-content: center;
+
+  background: linear-gradient(mediumspringgreen, #707070);
+  height: 100%;
+  width: 80px; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar*/
+
+  top: 0; /* Stay at the top */
+  left: 0;
+  right: 0;
+  padding-top: 20px;
+}
+/* display: flex;
+  align-items: center
+  justify-content: flex-start; */
+.home-top {
+    display: flex;
+    justify-content: center;
+  
+}
+
+.bottomgroup {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  margin-top: 290%;
+}
+
+.home {
+  max-width: 100%;
+}
+.about {
+  max-width: 100%;
+}
+.skills {
+  max-width: 100%;
+}
+.portfolio {
+  max-width: 100%;
+}
+.contact {
+  max-width: 100%;
+}
