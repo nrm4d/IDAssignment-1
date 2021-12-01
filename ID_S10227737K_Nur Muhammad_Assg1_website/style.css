@@ -1,4 +1,4 @@
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 767px) {
   .information,
   .about,
   .skills,
@@ -8,6 +8,7 @@
   .home-top,
   .contactform {
     width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+    font-size: 1px;
   }
 }
 
@@ -225,7 +226,8 @@ h2:hover {
   background-color: #707070;
 }
 
-input[type="text"],
+/* sizing of text bar for first & last name */
+input[type="text"],   
 select,
 textarea {
   width: auto;
@@ -238,7 +240,24 @@ textarea {
   resize: vertical;
 }
 
-input[type="submit"] {
+
+/*  sizing of text bar for email */
+input[type="email"],
+select,
+textarea {
+  width: auto;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+
+/* design for submit button */
+button[type="submit"] {
   background-color: #04aa6d;
   color: white;
   padding: 12px 20px;
@@ -247,9 +266,13 @@ input[type="submit"] {
   cursor: pointer;
 }
 
-input[type="submit"]:hover {
+
+/* hover for submit button */
+button[type="submit"]:hover {
   background-color: #45a049;
 }
+
+
 
 .container {
   border-radius: 5px;
