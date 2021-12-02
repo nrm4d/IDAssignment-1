@@ -1,4 +1,4 @@
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1050px) {
   .information,
   .about,
   .skills,
@@ -8,13 +8,14 @@
   .home-top,
   .contactform {
     width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
-    font-size: 1px;
+    font-size: 100%;
   }
 }
 
 body {
   background-color: #707070;
   font-family: Roboto;
+  font-size: 280%;
 }
 .information,
 .aboutme,
@@ -24,7 +25,7 @@ body {
   margin: auto;
   border: 3px;
   padding-left: 150px; /* this centres my text*/
-  font-size: 40px;
+
   color: white;
 }
 
@@ -227,7 +228,7 @@ h2:hover {
 }
 
 /* sizing of text bar for first & last name */
-input[type="text"],   
+input[type="text"],
 select,
 textarea {
   width: auto;
@@ -239,7 +240,6 @@ textarea {
   margin-bottom: 16px;
   resize: vertical;
 }
-
 
 /*  sizing of text bar for email */
 input[type="email"],
@@ -255,7 +255,6 @@ textarea {
   resize: vertical;
 }
 
-
 /* design for submit button */
 button[type="submit"] {
   background-color: #04aa6d;
@@ -266,13 +265,10 @@ button[type="submit"] {
   cursor: pointer;
 }
 
-
 /* hover for submit button */
 button[type="submit"]:hover {
   background-color: #45a049;
 }
-
-
 
 .container {
   border-radius: 5px;
