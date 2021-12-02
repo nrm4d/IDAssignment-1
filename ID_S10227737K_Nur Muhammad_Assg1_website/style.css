@@ -265,8 +265,8 @@ textarea {
 
 /* design for submit button */
 button[type="submit"] {
-  background-color: #04aa6d;
-  color: white;
+  background-color: whitesmoke;
+  color: black;
   padding: 12px 20px;
   border: none;
   border-radius: 4px;
@@ -275,7 +275,7 @@ button[type="submit"] {
 
 /* hover for submit button */
 button[type="submit"]:hover {
-  background-color: #45a049;
+  background-color: blanchedalmond;
 }
 
 .container {
