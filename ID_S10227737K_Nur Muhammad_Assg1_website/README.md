@@ -62,7 +62,10 @@ One problem I faced was trying to make input validation work for my contact form
 # Content
 The text for section Y was copied from the Wikipedia article Z
 # Media
-The photos used in this site were obtained from iconbros.com,google and my personal picture.
+The photos used in this site were obtained from:
+https://www.iconbros.com/
+https://www.google.com/
+Personal pictures
 # Acknowledgements
 I received inspiration for this project from multiple content creators on youtube such as Filip (https://www.youtube.com/user/FilipGrebowski) and Flux (https://www.youtube.com/channel/UCN7dywl5wDxTu1RM3eJ_h9Q)
 
