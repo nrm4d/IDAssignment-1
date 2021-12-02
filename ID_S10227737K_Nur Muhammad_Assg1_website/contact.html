@@ -12,7 +12,7 @@
       href="https://fonts.googleapis.com/css2?family=Roboto&display=swap"
       rel="stylesheet"
     />
-    <script src="script.js"></script>
+    <script defer src="script.js"></script>
     <title>Contact Me!</title>
   </head>
 
@@ -23,36 +23,49 @@
       </div>
     </section>
 
+
     <div class="contactform">
-      <form name="myForm" action="" onsubmit="return validateForm()">
-        <label for="fname">First Name</label>
-        <br />
-        <input type="text" id="fname" name="firstname" required />
-        <br />
-
-        <label for="lname">Last Name</label>
-        <br />
-        <input type="text" id="lname" name="lastname" required />
-        <br />
-
-        <label for="email">Email Address</label>
-        <br />
-        <input type="email" id="email" name="emailaddy" required />
-        <br />
-
-        <label for="subject">Subject</label>
-        <br />
-        <textarea
-          id="subject"
-          name="subject"
-          style="height: 200px; width: 500px"
-          required
-        ></textarea>
-        <br />
-
+      <div id="error"></div>
+      <form id="myForm" action="/" method="GET">
+        <div>
+          <label for="fname">First Name</label>
+          <br>
+          <input id="fname" name="firstname" type="text" required />
+          <br>
+        </div>
+        <div>
+          <label for="lname">Last Name</label>
+          <br>
+          <input id="lname" name="lastname" type="text" required />
+          <br>
+        </div>
+  
+        <div>
+          <label for="email">Email Address</label>
+          <br>
+          <input id="email" name="emailaddy" type="email" required />
+          <br>
+        </div>
+  
+        <div>
+          <label for="subject">Subject</label>
+          <br />
+          <textarea
+            id="subject"
+            name="subject"
+            style="height: 200px; width: 500px"
+          ></textarea>
+          <br />
+        </div>
+        
         <button type="submit">Submit</button>
       </form>
     </div>
+    
+
+    
+
+    
 
     <!-- Side navigation -->
     <section class="navigation">
