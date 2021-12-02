@@ -15,7 +15,7 @@
 body {
   background-color: #707070;
   font-family: Roboto;
-  font-size: 280%;
+  font-size: 200%;
 }
 .information,
 .aboutme,
@@ -33,7 +33,7 @@ body {
 .navigation {
   background: linear-gradient(mediumspringgreen, #707070);
   height: 100%;
-  max-width: 100%; /* Set the width of the sidebar */
+  width: 100px; /* Set the width of the sidebar */
   position: fixed; /* Fixed Sidebar*/
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
@@ -229,6 +229,10 @@ h2:hover {
   padding-left: 10%;
   border-radius: 5px;
   background-color: #707070;
+}
+
+.fname{
+  font-size: 40%
 }
 
 /* sizing of text bar for first & last name */
