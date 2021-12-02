@@ -18,7 +18,7 @@ This section is also where you would share links to any wireframes, mockups, dia
 This is the link to my wireframe.
 https://xd.adobe.com/view/fba0d0f1-1e76-497b-9a05-f1b0cd994e7b-aef3/?fullscreen
 # Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+
 
 # Existing Features
 Feature 1 - allow users to contact me
