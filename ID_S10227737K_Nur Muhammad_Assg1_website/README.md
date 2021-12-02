@@ -45,24 +45,24 @@ I had to use JavaScript for input validation for my contact form.
 
 
 # Testing
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+
 
 Contact form:
+On home page click "Contact Me!" OR Click contact icon on navigation bar.
 Go to the "Contact Us" page
 Try to submit the empty form and verify that an error message about the required fields appears
 Try to submit the form with an invalid email address and verify that a relevant error message appears
 Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+One problem I faced was trying to make input validation work for my contact form - email field. I was confused as to why it did not work so I had to refer to external materials on youtube to guide me the proper way for input validation.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+
 
 # Credits
 # Content
 The text for section Y was copied from the Wikipedia article Z
 # Media
-The photos used in this site were obtained from ...
+The photos used in this site were obtained from iconbros.com,google and my personal picture.
 # Acknowledgements
-I received inspiration for this project from X
+I received inspiration for this project from multiple content creators on youtube such as Filip (https://www.youtube.com/user/FilipGrebowski) and Flux (https://www.youtube.com/channel/UCN7dywl5wDxTu1RM3eJ_h9Q)
 
