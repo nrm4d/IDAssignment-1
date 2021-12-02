@@ -70,7 +70,7 @@ body {
 }
 
 .about:hover {
-  box-shadow: 0 0 5px white, 0 0 5px white, 0 0 5px white;
+  box-shadow: 0 0 8px white, 0 0 8px white, 0 0 8px white;
 }
 
 .skills {
@@ -81,7 +81,7 @@ body {
 }
 
 .skills:hover {
-  box-shadow: 0 0 5px white, 0 0 5px white, 0 0 5px white;
+  box-shadow: 0 0 8px white, 0 0 8px white, 0 0 8px white;
 }
 .portfolio {
   max-width: 100%;
@@ -91,7 +91,7 @@ body {
 }
 
 .portfolio:hover {
-  box-shadow: 0 0 5px white, 0 0 5px white, 0 0 5px white;
+  box-shadow: 0 0 8px white, 0 0 8px white, 0 0 8px white;
 }
 .contact {
   max-width: 100%;
@@ -101,7 +101,7 @@ body {
 }
 
 .contact:hover {
-  box-shadow: 0 0 5px white, 0 0 5px white, 0 0 5px white;
+  box-shadow: 0 0 8px white, 0 0 8px white, 0 0 8px white;
 }
 
 /* HOVER FOR HOME PAGE TO CONTACT ME */
