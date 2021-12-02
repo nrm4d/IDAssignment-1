@@ -111,7 +111,7 @@ span {
   background: #424040; /*sets the background of this element (here a solid colour)*/
   transition: all 0.2s; /*sets a transition (for hover effect)*/
   padding: 30px 20px;
-  margin-bottom: -3.6%;
+  margin-bottom: -3.5%;
   letter-spacing: 4px;
   text-decoration: none;
   overflow: hidden;
