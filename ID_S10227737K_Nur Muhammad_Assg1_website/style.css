@@ -1,4 +1,4 @@
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 576px) {
   .information,
   .about,
   .skills,
@@ -8,7 +8,7 @@
   .home-top,
   .contactform {
     width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
-    font-size: 0%;
+    font-size: 20%;
   }
 }
 
@@ -231,8 +231,8 @@ h2:hover {
   background-color: #424040;
 }
 
-.fname{
-  font-size: 40%
+.fname {
+  font-size: 40%;
 }
 
 /* sizing of text bar for first & last name */
