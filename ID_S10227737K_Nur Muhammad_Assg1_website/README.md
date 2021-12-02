@@ -45,6 +45,37 @@ I had to use JavaScript for input validation for my contact form.
 
 
 # Testing
+Navigation Bar:
+On Home page click icon to go to About page and verify it jumps to that page
+On Home page click icon to go to Skills page and verify it jumps to that page
+On Home page click icon to go to Project page and verify it jumps to that page
+On Home page click icon to go to Contact page and verify it jumps to that page
+
+On About page click icon to go to Home page and verify it jumps to that page
+On About page click icon to go to Skills page and verify it jumps to that page
+On About page click icon to go to Project page and verify it jumps to that page
+On About page click icon to go to Contact page and verify it jumps to that page
+
+On Skills page click icon to go to Home page and verify it jumps to that page
+On Skills page click icon to go to About page and verify it jumps to that page
+On Skills page click icon to go to Project page and verify it jumps to that page
+On Skills page click icon to go to Contact page and verify it jumps to that page
+
+On Project page click icon to go to Home page and verify it jumps to that page
+On Project page click icon to go to About page and verify it jumps to that page
+On Project page click icon to go to Skills page and verify it jumps to that page
+On Project page click icon to go to Contact page and verify it jumps to that page
+
+On Contact page click icon to go to Home page and verify it jumps to that page
+On Contact page click icon to go to About page and verify it jumps to that page
+On Contact page click icon to go to Skills page and verify it jumps to that page
+On Contact page click icon to go to Portfolio page and verify it jumps to that page
+
+
+Extra information:
+On home page click "Muhammad"
+Goes to my personal "LinkedIn" page
+
 
 
 Contact form:
