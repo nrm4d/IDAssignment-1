@@ -4,17 +4,15 @@ const emailaddy = document.getElementById('email')
 const form = document.getElementById('myForm')
 const errorElement = document.getElementById('error')
 
-form.addEventListener('submit', (e) => {
+myForm.addEventListener('submit', (e) => {
   let messages = []
-  if (firstname.value === '' || firstname.value == null) {
+  if (fname.value === '' || fname.value == null) {
     messages.push('First Name is required')
   }
-  if (lastname.value === '' || lastname.value == null) {
+  if (lname.value === '' || lname.value == null) {
     messages.push('Last Name is required')
   }
-  if (emailaddy.value === '' || emailaddy.value == null) {
-    messages.push('Email is required')
-  }
+
 
   var mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
 
