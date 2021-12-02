@@ -13,7 +13,7 @@
 }
 
 body {
-  background-color: #707070;
+  background-color: #424040;
   font-family: Roboto;
   font-size: 250%;
 }
@@ -31,7 +31,7 @@ body {
 
 /* NAVIGATION BAR AND ICONS */
 .navigation {
-  background: linear-gradient(mediumspringgreen, #707070);
+  background: linear-gradient(white, #707070);
   height: 100%;
   width: 100px; /* Set the width of the sidebar */
   position: fixed; /* Fixed Sidebar*/
@@ -60,7 +60,7 @@ body {
 }
 
 .home:hover {
-  box-shadow: 0 0 5px white, 0 0 5px white, 0 0 5px white;
+  box-shadow: 0 0 8px #424040, 0 0 8px #424040, 0 0 8px #424040;
 }
 .about {
   max-width: 100%;
@@ -108,23 +108,23 @@ body {
 span {
   position: relative;
   display: inline-block;
-  background: #707070; /*sets the background of this element (here a solid colour)*/
+  background: #424040; /*sets the background of this element (here a solid colour)*/
   transition: all 0.2s; /*sets a transition (for hover effect)*/
   padding: 30px 20px;
-  margin-bottom: -3.9%;
+  margin-bottom: -3.6%;
   letter-spacing: 4px;
   text-decoration: none;
   overflow: hidden;
 }
 span:hover {
-  background: #707070; /*sets background colour*/
-  box-shadow: 0 0 5px #00fa9a, 0 0 20px #00fa9a, 0 0 40px #00fa9a;
+  background: #424040; /*sets background colour*/
+  box-shadow: 0 0 5px white, 0 0 20px white, 0 0 40px white;
 }
 
 h2 {
   position: relative;
   display: inline-block;
-  background: #707070; /*sets the background of this element (here a solid colour)*/
+  background: #424040; /*sets the background of this element (here a solid colour)*/
   transition: all 0.2s; /*sets a transition (for hover effect)*/
   padding: 10px 20px;
   letter-spacing: 4px;
@@ -132,8 +132,8 @@ h2 {
   overflow: hidden;
 }
 h2:hover {
-  background: #707070; /*sets background colour*/
-  box-shadow: 0 0 5px #00fa9a, 0 0 20px #00fa9a, 0 0 40px #00fa9a;
+  background: #424040; /*sets background colour*/
+  box-shadow: 0 0 5px white, 0 0 20px white, 0 0 40px white;
 }
 
 /* ABOUT ME PAGE */
@@ -228,7 +228,7 @@ h2:hover {
 .contactform {
   padding-left: 10%;
   border-radius: 5px;
-  background-color: #707070;
+  background-color: #424040;
 }
 
 .fname{
