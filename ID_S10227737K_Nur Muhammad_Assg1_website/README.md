@@ -22,7 +22,9 @@ In this section, you should go over the different parts of your project, and des
 
 # Existing Features
 Feature 1 - allow users to contact me
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+Feature 2 - navigation bar for easier navigation
+
+
 
 # Features Left to Implement
 Maybe a fun clock to show people time
