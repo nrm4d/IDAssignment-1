@@ -96,7 +96,9 @@ One problem I faced was trying to make input validation work for my contact form
 # Credits
 Thanks Mrs Ong for guiding me through this project and www.w3schools.com whenever i had issues understanding
 # Content
-The text for section Y was copied from the Wikipedia article Z
+Text for about me was copied from my LinkedIn page.
+
+The text for working experienced was copied from my LinkedIn page.
 # Media
 The photos used in this site were obtained from:
 https://www.iconbros.com/
