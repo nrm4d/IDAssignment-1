@@ -92,7 +92,9 @@ One problem I faced was trying to make input validation work for my contact form
 
 
 # Credits
-Thanks Mrs Ong for guiding me through this project and www.w3schools.com whenever i had issues understanding
+Thanks Mrs Ong for guiding me through this project and www.w3schools.com whenever i had issues understanding. www.youtube.com for whenver i could not visualize the concepts that are being taught
+
+
 # Content
 Text for about me was copied from my LinkedIn page.
 
