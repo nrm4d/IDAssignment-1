@@ -1,3 +1,4 @@
+/* media queries for when mobile users want to view my website */
 @media screen and (max-width: 576px) {
   .information,
   .aboutme,
@@ -60,18 +61,19 @@ body {
   top: 0; /* Stay at the top */
   padding-top: 20px;
 }
-
+/* for my navigation bar because i want my home button to be separated */
 .home-top {
   display: flex;
-  margin-left: 5%;
+  margin-left: 12%;
 }
 
+/* for my navigation bar because i want my bottom group to be group together */
 .bottomgroup {
   display: flex;
   justify-content: space-evenly;
   flex-direction: column;
   margin-top: 290%;
-  margin-left: 15%;
+  margin-left: 20%;
 }
 .home {
   max-width: 100%;
