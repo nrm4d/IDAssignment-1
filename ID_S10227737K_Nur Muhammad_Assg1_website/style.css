@@ -6,7 +6,27 @@
   .ctc,
   .navigation,
   .home-top,
-  .bottomgroup
+  .bottomgroup,
+  .contactform,
+  .body,
+  .home,
+  .about,
+  .skills,
+  .portfolio,
+  .contact,
+  .me,
+  .me_img,
+  .myskills,
+  .knowledge,
+  .kali,
+  .vmware,
+  .linux,
+  .obey,
+  .alley,
+  .simp,
+  .simpName,
+  .dos,
+  .dosName,
   .contactform {
     width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
     font-size: 20%;
