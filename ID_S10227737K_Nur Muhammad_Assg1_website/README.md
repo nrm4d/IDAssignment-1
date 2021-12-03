@@ -94,13 +94,15 @@ One problem I faced was trying to make input validation work for my contact form
 
 
 # Credits
+Thanks Mrs Ong for guiding me through this project and www.w3schools.com whenever i had issues understanding
 # Content
 The text for section Y was copied from the Wikipedia article Z
 # Media
 The photos used in this site were obtained from:
 https://www.iconbros.com/
 https://www.google.com/
-Personal pictures
+
+and my personal pictures
 # Acknowledgements
 I received inspiration for this project from multiple content creators on youtube such as Filip (https://www.youtube.com/user/FilipGrebowski) and Flux (https://www.youtube.com/channel/UCN7dywl5wDxTu1RM3eJ_h9Q) and Pinterest (https://www.pinterest.com/ceruleanne/website-wireframe/)
 
