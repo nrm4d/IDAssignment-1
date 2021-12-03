@@ -1,11 +1,12 @@
 @media screen and (max-width: 576px) {
   .information,
-  .about,
-  .skills,
-  .portfolio,
+  .aboutme,
+  .skillsexp,
+  .myportfolio,
   .ctc,
   .navigation,
   .home-top,
+  .bottomgroup
   .contactform {
     width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
     font-size: 20%;
