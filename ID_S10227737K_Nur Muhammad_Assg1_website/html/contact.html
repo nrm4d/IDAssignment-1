@@ -13,7 +13,6 @@
     <link rel="stylesheet" href="/css/normalize.css" />
     <link rel="stylesheet" href="/css/style.css" />
 
-    <script defer src="/js/script.js"></script>
     <title>Contact Me!</title>
   </head>
 
@@ -24,26 +23,27 @@
       </div>
     </section>
 
+    <!-- this is the contact form where users can contact me -->
     <div class="contactform">
       <div id="error"></div>
       <form id="myForm" action="/" method="GET">
         <div>
           <label for="fname" style="color: whitesmoke">First Name</label>
           <br />
-          <input id="fname" name="firstname" type="text" required />
+          <input id="fname" name="firstname" type="text" />
           <br />
         </div>
         <div>
           <label for="lname" style="color: whitesmoke">Last Name</label>
           <br />
-          <input id="lname" name="lastname" type="text" required />
+          <input id="lname" name="lastname" type="text" />
           <br />
         </div>
 
         <div>
           <label for="email" style="color: whitesmoke">Email Address</label>
           <br />
-          <input id="email" name="emailaddy" type="email" required />
+          <input id="email" name="emailaddy" type="email" />
           <br />
         </div>
 
@@ -92,5 +92,7 @@
         </a>
       </div>
     </section>
+    <!-- this is my javascript -->
+    <script defer src="/js/script.js"></script>
   </body>
 </html>
