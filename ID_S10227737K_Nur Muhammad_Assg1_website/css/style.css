@@ -29,7 +29,7 @@
   .dos,
   .dosName,
   .contactform {
-    width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+    width: 100%; /* the width is 100%, when the max viewport is 576px or smaller */
     font-size: 20%;
   }
 }
@@ -55,10 +55,10 @@ body {
 .navigation {
   background: linear-gradient(white, #707070);
   height: 100%;
-  width: 100px; /* Set the width of the sidebar */
-  position: fixed; /* Fixed Sidebar*/
-  z-index: 1; /* Stay on top */
-  top: 0; /* Stay at the top */
+  width: 100px; /* set the width of the sidebar */
+  position: fixed; /* fixed sidebar*/
+  z-index: 1; /* stay on top */
+  top: 0; /* stay at the top */
   padding-top: 20px;
 }
 /* for my navigation bar because i want my home button to be separated */
@@ -75,6 +75,8 @@ body {
   margin-top: 290%;
   margin-left: 20%;
 }
+
+/* sizing and hover animations for my icons for navigation bar */
 .home {
   max-width: 100%;
   height: 60px;
@@ -160,6 +162,8 @@ h2:hover {
 }
 
 /* ABOUT ME PAGE */
+
+/* sizing and position for my images and text */
 .me {
   position: absolute;
   float: left;
@@ -176,6 +180,7 @@ h2:hover {
 }
 
 /* SKILLS PAGE */
+/* sizing and position for my images and text */
 .myskills {
   position: absolute;
   padding-bottom: 50%;
@@ -218,6 +223,7 @@ h2:hover {
 }
 
 /* PORTFOLIO PAGE */
+/* sizing and position for my images and text */
 .simp {
   display: flex;
   max-width: 100%;
@@ -248,15 +254,13 @@ h2:hover {
 }
 
 /* CONTACT PAGE  */
+/* this is the position of my contact form */
 .contactform {
   padding-left: 10%;
   border-radius: 5px;
   background-color: #424040;
 }
 
-.fname {
-  font-size: 40%;
-}
 
 /* sizing of text bar for first & last name */
 input[type="text"],
@@ -301,8 +305,4 @@ button[type="submit"]:hover {
   background-color: blanchedalmond;
 }
 
-.container {
-  border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 20px;
-}
+
