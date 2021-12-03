@@ -7,16 +7,14 @@ This project is a personal portfolio that I have created using the knowledge I h
 My process when it comes to designing the website is firstly, how would I as a user would enjoy looking at the website and secondly, how easy it will be to navigate. Initially I had problems designing my website as I was not sure how I wanted my website to look like if it is in a mobile view. I had to do intensive research on how i wanted my website to look like so i had to go on to sites like Pinterest to look for inspiration.
 This website is also focusing on recruiters looking to recruit fresh graduates and i believe my website is the best way to achieve that as it is user friendly and has a minimalistic look which i think recruiters might appreciate.
 
+As a user, i want to be able to find out relevant information that could lead me to hiring someone. It has to be easy to navigate, and also have contact information or contact form that is readily available
 
 
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-
-As a user type, I want to perform an action, so that I can achieve a goal.
-
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory) Include the Adobe XD wireframe as a folder. You can include the XD share url.
 
 This is the link to my wireframe.
+
+
 https://xd.adobe.com/view/fba0d0f1-1e76-497b-9a05-f1b0cd994e7b-aef3/?fullscreen
 # Features
 
